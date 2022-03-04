@@ -7,10 +7,10 @@ Make sure you make a commit note describing what you are adding or changing each
 Questions:
 
 1. What is your project idea (as decided by your team and approved by your teacher)?
-
+CHS athletics page. A place where you can see all sports, rosters, and events for Cumberland Highschool
 
 2. What what kind of web site is it (Community, Existing Industry, Startup)?
-
+It is a community website.
 
 3. What problem does your project solve?
 
