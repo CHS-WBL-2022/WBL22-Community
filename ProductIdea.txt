@@ -13,10 +13,10 @@ CHS athletics page. A place where you can see all sports, rosters, and events fo
 It is a community website.
 
 3. What problem does your project solve?
-
+The current CHS athletics website is outdated, hard to find, and could be optimized in terms of user ability.
 
 4. Is it a “vitamin” or a “painkiller”? Why?
-
+Mainly a painkiller in terms of accessing the schedules, but vitamins for user freindlier website, images, etc.
 
 5. How does your project solve the problem?
 
