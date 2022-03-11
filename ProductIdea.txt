@@ -13,7 +13,7 @@ CHS athletics page. A place where you can see all sports, rosters, and events fo
 It is a community website.
 
 3. What problem does your project solve?
-The current CHS athletics website is outdated, hard to find, and could be optimized in terms of user ability.
+The current CHS athletics website is outdated, hard to find, we will be revamping it with our own design to make it more user friendly.
 
 4. Is it a “vitamin” or a “painkiller”? Why?
 Mainly a painkiller in terms of accessing the schedules, but vitamins for user freindlier website, images, etc.
@@ -34,6 +34,7 @@ Yes, it is explainable easily.
 
 
 10. How did you come up with this idea? Describe the process.
+I came up with the idea as there wasn't a centralized place to access information on all Cumberland sports teams. For example if you wanted to go to a boys lacrosse game it would be pretty hard to track down that information. So this need helped me come up with the idea and along with thinking it could be a cool place to access pictures and highlight outasnding preformances. 
 
 
 11. What other ideas were candidates?
