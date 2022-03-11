@@ -16,7 +16,7 @@ It is a community website.
 The current CHS athletics website is outdated, hard to find, we will be revamping it with our own design to make it more user friendly.
 
 4. Is it a “vitamin” or a “painkiller”? Why?
-Mainly a painkiller in terms of accessing the schedules, but vitamins for user freindlier website, images, etc.
+It is a hybrid between painkiller and vitamin. Its a painkiller in terms of ease of access, friendly user interface and other visual elements as it imnproves upon the textual looking atheletics website. Its also a vitamin, as it provides the users with valuable information and schedules about the sports.
 
 5. How does your project solve the problem?
 It makes a new revamped website with a ton of more user friendly things.
@@ -31,7 +31,7 @@ Athletes of CHS, fans of CHS sports teams, parents who want to know times of gam
 Yes, it is explainable easily.
 
 9. Is your idea in a growing market or mature market (see video on Growing Markets)?
-
+It cannot come under any market because it is a web product based on helping the community.
 
 10. How did you come up with this idea? Describe the process.
 I came up with the idea as there wasn't a centralized place to access information on all Cumberland sports teams. For example if you wanted to go to a boys lacrosse game it would be pretty hard to track down that information. So this need helped me come up with the idea and along with thinking it could be a cool place to access pictures and highlight outasnding preformances. 
