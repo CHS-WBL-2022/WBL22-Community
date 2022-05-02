@@ -11,3 +11,29 @@
     <ol> ● Prices are <em> non-negotiable. </em> </ol>
     <ol> ● Discount for students who are a part of Cumberland Athletics. </ol>
     <ol> ● Items will ship in around 5-7 business days from purchase </ol>
+ <table>
+      <tr>
+        <th> Item </th>
+        <th> Price </th>
+      </tr> 
+      <tr>
+        <td> Hoodie </td>
+        <td> $29.99 </td>
+      </tr>
+      <tr>
+        <td> T-Shirt</td>
+        <td> $19.99 </td>
+      </tr>
+      <tr>
+        <td> Crewneck</td>
+        <td> $24.99 </td>
+      </tr>
+      <tr>
+        <td> Long Sleeve </td>
+        <td> $19.99 </td>
+      </tr>
+      <tr> 
+        <td> Zip-Up Hoodie </td>
+        <td> $24.99 </td>
+      </tr>
+    </table>
